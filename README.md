@@ -1,2 +1,2 @@
 # Fraud-detection
-Please find Jupyter Notebook foe Readme
+Please find Jupyter Notebook for Readme
